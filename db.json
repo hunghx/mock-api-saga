@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "hunghx",
+      "password": "123456",
+      "fullname": "Hồ Xuân Hùng"
+    },
+    {
+      "id": 2,
+      "username": "Daivt",
+      "password": "123456",
+      "fullname": "Vũ Trọng Đại"
+    },
+    {
+      "id": 3,
+      "username": "Anhht",
+      "password": "12345678",
+      "fullname": "Hà Tuấn Anh"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Quần dài nam",
+      "description": "QUần đen",
+      "price": 100,
+      "image_url": "https://tse2.mm.bing.net/th?id=OIP.nMdUl6vokkpRQFEx8XLUrQHaHa&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 2,
+      "name": "Áo Phông nữ",
+      "description": "màu pha",
+      "price": 120,
+      "image_url": "https://tse3.mm.bing.net/th?id=OIP.CPUoD3x5BCFVk2qWk7Sa2wHaHa&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 3,
+      "name": "Kính mắt",
+      "description": "QUần đen",
+      "price": 130,
+      "image_url": "https://tse2.mm.bing.net/th?id=OIP.JjcC7qnli3zqUimTFiAjNQHaHa&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 4,
+      "name": "Mũ lưỡi trai",
+      "description": "dành cho nam và nữ",
+      "price": 150,
+      "image_url": "https://tse2.mm.bing.net/th?id=OIP.lmr9UGnYGaPdjvwfC_LrRwHaHa&pid=Api&P=0&h=180"
+    }
+  ],
+  "cart": [
+    {
+      "id": 3,
+      "product_id": 2,
+      "name": "Áo Phông nữ",
+      "price": 120,
+      "image_url": "https://tse3.mm.bing.net/th?id=OIP.CPUoD3x5BCFVk2qWk7Sa2wHaHa&pid=Api&P=0&h=180",
+      "quantity": 13
+    },
+    {
+      "id": 4,
+      "product_id": 3,
+      "name": "Kính mắt",
+      "price": 130,
+      "image_url": "https://tse2.mm.bing.net/th?id=OIP.JjcC7qnli3zqUimTFiAjNQHaHa&pid=Api&P=0&h=180",
+      "quantity": 8
+    }
+  ]
+}
